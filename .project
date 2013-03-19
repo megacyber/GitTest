@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+	<name>NNlab</name>
+=======
+<<<<<<< HEAD
 	<name>NLab#8</name>
 =======
 	<name>gitproject01</name>
 >>>>>>> 9de8b774e586cfad205f099f4921a48fe0871793
+>>>>>>> 09b86e3031e00beb9040e624fc35c128c92c90fb
 	<comment></comment>
 	<projects>
 	</projects>
