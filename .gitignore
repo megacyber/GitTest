@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #*
 *$
 *.BAK
@@ -27,3 +28,8 @@ RCS
 RCSLOG
 SCCS
 _$*
+=======
+*.class
+*.pyc
+*.pyo
+>>>>>>> 9de8b774e586cfad205f099f4921a48fe0871793
