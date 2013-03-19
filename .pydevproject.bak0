@@ -2,4 +2,8 @@
 <?eclipse-pydev version="1.0"?><pydev_project>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<<<<<<< HEAD
+=======
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+>>>>>>> d1ac053bcca3de793381765b34eb4415253ded53
 </pydev_project>
