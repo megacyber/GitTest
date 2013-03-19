@@ -25,7 +25,7 @@ class PaintBox( Frame ):
    def paint( self, event ):
        x1, y1 = ( event.x - 4 ), ( event.y - 4 )
        x2, y2 = ( event.x + 4 ), ( event.y + 4 )
-       self.myCanvas.create_oval( x1, y1, x2, y2, fill = "red" )
+       self.myCanvas.create_oval( x1, y1, x2, y2, fill = "green" )
    
    def clear(self):
        self.myCanvas.destroy()
